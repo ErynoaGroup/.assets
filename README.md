@@ -15,5 +15,5 @@ Static assets for the Erynoa Group — icons, logos, images, fonts.
 
 Raw URL pattern:
 ```
-https://raw.githubusercontent.com/ErynoaGroup/.erynoa-assets/main/{path}
+https://raw.githubusercontent.com/ErynoaGroup/.assets/main/{path}
 ```
